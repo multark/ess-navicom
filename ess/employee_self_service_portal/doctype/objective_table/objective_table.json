@@ -1,0 +1,38 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-12-27 15:11:41.236439",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "objective",
+  "result"
+ ],
+ "fields": [
+  {
+   "fieldname": "objective",
+   "fieldtype": "Long Text",
+   "in_list_view": 1,
+   "label": "Objective"
+  },
+  {
+   "fieldname": "result",
+   "fieldtype": "Long Text",
+   "in_list_view": 1,
+   "label": "Result"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-12-27 15:12:05.276174",
+ "modified_by": "Administrator",
+ "module": "Employee Self Service Portal",
+ "name": "Objective Table",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

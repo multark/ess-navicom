@@ -1,0 +1,23 @@
+{
+    "js/ess.min.js": [
+		"employee_self_service_portal/page/employee_self_servic/employee_self_servic/employee_self_servic.html",
+        "employee_self_service_portal/page/employee_self_servic/employee_self_servic/employee_self_servic_sidebar.html",
+        "employee_self_service_portal/page/ess/ess/ess_sidebar.html",
+        "employee_self_service_portal/page/ess/ess/ess_body.html",
+        "employee_self_service_portal/page/ess/ess/ess_table.html",
+        "employee_self_service_portal/page/ess/ess/ess_list.html",
+        "employee_self_service_portal/page/ess/ess/birthday.html",
+        "employee_self_service_portal/page/ess/ess/leave.html",
+        "employee_self_service_portal/page/ess/ess/list.html",
+        "employee_self_service_portal/page/ess/ess/ess_modules_reports.html"
+	],
+    "js/ess-template.min.js": [
+        "public/js/float.html"
+    ],
+    "js/ess-float.min.js": [
+        "public/js/float.js"
+    ],
+    "css/ess-float.min.css": [
+        "public/css/float.css"
+    ]
+}
